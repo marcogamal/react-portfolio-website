@@ -5,6 +5,8 @@ import About from './components/about/About'
 import Experience from './components/experience/Experience'
 import Services from './components/about/Services'
 import Portfolio from './components/about/Portfolio'
+import Testimonials from './components/about/Testimonials'
+
 
 const App = () => {
   return (
