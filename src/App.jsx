@@ -7,6 +7,7 @@ import Services from './components/about/Services'
 import Portfolio from './components/about/Portfolio'
 import Testimonials from './components/about/Testimonials'
 import Contact from './components/about/Contact'
+import Footer from './components/about/Footer'
 
 const App = () => {
   return (
